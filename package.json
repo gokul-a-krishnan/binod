@@ -1,0 +1,23 @@
+{
+  "name": "binod-js",
+  "version": "1.0.0",
+  "description": "binod",
+  "main": "binod.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokul-a-krishnan/binod-js.git"
+  },
+  "keywords": [
+    "binod",
+    "india",
+    "indian",
+    "meme",
+    "npm"
+  ],
+  "author": "Gokulakrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokul-a-krishnan/binod-js/issues"
+  },
+  "homepage": "https://github.com/gokul-a-krishnan/binod-js#readme"
+}
